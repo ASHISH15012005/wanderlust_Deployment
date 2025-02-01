@@ -23,7 +23,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
 1. **Fork and Clone the Repository**
 
    ```bash
-   git clone https://github.com/{your-username}/wanderlust.git
+   git clone https://github.com/ASHISH15012005/wanderlust_Deployment.git
    ```
 
 2. **Navigate to the Backend Directory**
